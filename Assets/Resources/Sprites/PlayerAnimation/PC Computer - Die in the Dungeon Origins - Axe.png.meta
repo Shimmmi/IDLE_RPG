@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: f8c414b3881bdb346a9bb2f84f83ba05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2529744550875937018
+    second: PC Computer - Die in the Dungeon Origins - Axe_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b07f04457b1320800000000000000
+      internalID: 2529744550875937018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60514e904a3eb924c8f8dc1e23aaa871
+      internalID: 1918533796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca84944559cb10f448497e8a53d4f518
+      internalID: -1785476504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248303b7dd8b1a5429857dfff9ad554b
+      internalID: 899614762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad1fd3d14198ee4baa0d80b928ebe61
+      internalID: -674863696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0013e1f4557a5489940b492a152513
+      internalID: 687125632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13527050037853e4e8159713ed0c4bb1
+      internalID: -1062307739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03239c88be22e324d930ff48ade115c1
+      internalID: -28693760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4753791122d50494cb765642dba30ae1
+      internalID: 1280458167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87299fe511927b46a538b55d8a2a486
+      internalID: 1131600036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b8420ecaaad544aa97f384b6a40101
+      internalID: 741976579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_11
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910eba67aae34ad4fb108b6fab9d8a01
+      internalID: 2144103254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_12
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 223
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22cac5ab1e9f5f449a3c47dd29a4cfe
+      internalID: -1072548131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d56a432611ac54eac26f210fca5010
+      internalID: 1504198576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542a35149c855a4f97363e7143f1ef2
+      internalID: 426745080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73e4724819f4c42ab61d829df7bf31
+      internalID: 1851788457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6446f4361b1e948b533fdf1685a28b
+      internalID: -2018864799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c159e70a7265b498dadf2e1411b094
+      internalID: -141574409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a9c894a25ba54084b5af3f46d56b4
+      internalID: -32043492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Die in the Dungeon Origins - Axe_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8bebf42fc92145aaae979e9a2521f
+      internalID: -625946860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a79aa6d30b69b14692040b08a8003b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Die in the Dungeon Origins - Axe_1: 1918533796
+      PC Computer - Die in the Dungeon Origins - Axe_10: 741976579
+      PC Computer - Die in the Dungeon Origins - Axe_11: 2144103254
+      PC Computer - Die in the Dungeon Origins - Axe_12: -1072548131
+      PC Computer - Die in the Dungeon Origins - Axe_13: 1504198576
+      PC Computer - Die in the Dungeon Origins - Axe_14: 426745080
+      PC Computer - Die in the Dungeon Origins - Axe_15: 1851788457
+      PC Computer - Die in the Dungeon Origins - Axe_16: -2018864799
+      PC Computer - Die in the Dungeon Origins - Axe_17: -141574409
+      PC Computer - Die in the Dungeon Origins - Axe_18: -32043492
+      PC Computer - Die in the Dungeon Origins - Axe_19: -625946860
+      PC Computer - Die in the Dungeon Origins - Axe_2: -1785476504
+      PC Computer - Die in the Dungeon Origins - Axe_3: 899614762
+      PC Computer - Die in the Dungeon Origins - Axe_4: -674863696
+      PC Computer - Die in the Dungeon Origins - Axe_5: 687125632
+      PC Computer - Die in the Dungeon Origins - Axe_6: -1062307739
+      PC Computer - Die in the Dungeon Origins - Axe_7: -28693760
+      PC Computer - Die in the Dungeon Origins - Axe_8: 1280458167
+      PC Computer - Die in the Dungeon Origins - Axe_9: 1131600036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

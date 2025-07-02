@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4def4205498098b4ba7c7fefabd3bc02, type: 3}
+  m_Name: Uncommon_Swords_13
+  m_EditorClassIdentifier: 
+  itemName: Uncommon_Swords_13
+  icon: {fileID: -164082725380277428, guid: a8733676b09b7b14799046fddd5f40b7, type: 3}
+  rarity: 1
+  statBonuses: 0000000001000000000000000300000001000000

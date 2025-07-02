@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4def4205498098b4ba7c7fefabd3bc02, type: 3}
+  m_Name: Rare_Swords_5
+  m_EditorClassIdentifier: 
+  itemName: Rare_Swords_5
+  icon: {fileID: 158777831206505336, guid: c190db3b0af50da48a658cf0e9a640ff, type: 3}
+  rarity: 2
+  statBonuses: 0000000002000000020000000100000002000000

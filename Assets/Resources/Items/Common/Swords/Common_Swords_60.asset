@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4def4205498098b4ba7c7fefabd3bc02, type: 3}
+  m_Name: Common_Swords_60
+  m_EditorClassIdentifier: 
+  itemName: Common_Swords_60
+  icon: {fileID: -3606383029764839114, guid: 705359a3de06b1c45ab6503a79d29134, type: 3}
+  rarity: 0
+  statBonuses: 0000000001000000010000000000000001000000

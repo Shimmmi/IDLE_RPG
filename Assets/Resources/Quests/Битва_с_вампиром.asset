@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d0c2f45d9d1eb41b4fa7365ccc018e, type: 3}
+  m_Name: "\u0411\u0438\u0442\u0432\u0430_\u0441_\u0432\u0430\u043C\u043F\u0438\u0440\u043E\u043C"
+  m_EditorClassIdentifier: 
+  questDescription: "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u0438\u0442\u044C
+    \u0434\u0440\u0435\u0432\u043D\u0435\u0433\u043E \u0432\u0430\u043C\u043F\u0438\u0440\u0430"
+  questTitle: "\u0411\u0438\u0442\u0432\u0430 \u0441 \u0432\u0430\u043C\u043F\u0438\u0440\u043E\u043C"
+  minLevelRequired: 20
+  maxLevelAllowed: 35
+  clickRequirement: 50
+  rewardRarityBase: 4
+  rewardMultiplier: 0.48
+  questType: 1
